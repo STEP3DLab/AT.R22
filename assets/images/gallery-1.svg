@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#grad1)"/>
+  <g fill="#f9fafb" font-family="'Inter',sans-serif" font-size="42" font-weight="600" text-anchor="middle">
+    <text x="400" y="360">Стационарное</text>
+    <text x="400" y="420">3D-сканирование</text>
+  </g>
+</svg>
